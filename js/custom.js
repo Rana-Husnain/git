@@ -19,6 +19,8 @@ $(document).ready(function () {
     });
 })
 
+
+
 // Google Map
 function initMap() {
     // The location of Hospital
